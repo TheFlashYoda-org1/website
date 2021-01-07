@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-_update-readme_ branch
-
-local update
+Updates made on master on Github before rebase
